@@ -1,0 +1,34 @@
+# python program to demonstrate circle drawing
+
+import turtle
+import matplotlib as plt
+# intitializing the turtle
+t = turtle.Turtle()
+center = O
+diameter = TS
+radius = r
+r = 5 units
+t.cirle(r)
+print("Input lengths of the triangle OPQ sides:")
+OP = int(input("OP:"))
+OQ = int(input("OQ:"))
+\\* let us consider PQ distance as 10 units*//
+PQ = int(input("PQ:"))
+if OP = OQ = r 
+print("triangle OPQ as isosceles triangle")
+angle OPQ = angle OQP ==A               \\*because triangle OPQ is isosceles triangle*//
+\\* consider angle POQ as B*//
+A + A + B == 180
+print("Input angles of triangle QOR :")
+angle ORP = int(input("ORP:60"))
+angle QOR = input("QOR: C")
+C + x +B = 180                            \\* angle of straight line is 180*//
+A  == 20 + C                              \\* an exterior angle is equal to sum of two opposite interior angle*//
+print(" A , B ,C")
+if C = 20
+print(" triangle QOR is isoceles triangle")
+QR = OQ
+OQ = OP = r
+print("OP = QR for x = 60")
+print("Hence proved")
+

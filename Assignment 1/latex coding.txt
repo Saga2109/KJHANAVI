@@ -1,0 +1,56 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{geometery}
+\usepackage{graphicx}
+
+\begin{document}
+
+\title{assignment 1 code}
+\author{kummitha jhanavi}
+
+\maketitle
+
+SOLUTION :
+
+Radius r;
+
+OP = OQ = r;
+
+given OP = OR
+
+OP = OQ = QR = r
+
+IN $\Delta$ OQR, OQ = QR
+
+$\angle$ QOR = $\angle$ ORP = 20
+
+Consider $\Delta$ OQR , An exterior angle of a triangle is equal to the sum of the two opposite interior angles
+
+And $\angle$ OQP = $\angle$ QOR = $\angle$ ORQ
+
+$\angle$ OQP = 20 + 20
+
+$\angle$ OQP = 40
+
+In , $\Delta$ OPQ 
+
+Sum of all angles in a triangle is equal to 180
+
+$\angle$ POQ = 180 - ($\angle$ OPQ + $\angle$ OQP)
+
+$\angle$ POQ = 180 - 40 - 40
+
+$\angle$ POQ = 100
+
+Sum of angle of striaght line is 180
+
+$\angle$ x + $\angle$ POQ + $\angle$ QOR = 180
+
+$\angle$ x + 100 + 20 = 180
+
+$\angle$ x = 60
+
+
+\end{document}
